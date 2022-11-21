@@ -5,7 +5,7 @@ sed -i "s/SELINUX=enforcing/SELINUX=disabled/g" /etc/selinux/config &> /dev/null
 proxy_ip='yourmainapilink';
 open_Link='';
 #Database Details
-dbhost='68.178.224.214';
+dbhost='184.168.114.16';
 dbuser='mayor-vpn-user';
 dbpass='soldier062185';
 dbname='mayor-vpn101';
