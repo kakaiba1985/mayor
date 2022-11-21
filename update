@@ -7,7 +7,7 @@ open_Link='';
 #Database Details
 dbhost='68.178.224.214';
 dbuser='mayor-vpn-user';
-dbpass='kakaiba123';
+dbpass='soldier062185';
 dbname='mayor-vpn101';
 dbport='3306';
 RED='\033[01;31m';
