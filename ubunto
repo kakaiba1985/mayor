@@ -74,7 +74,7 @@ echo -e "                $GREEN
  
  echo -e "                $RED
            
-		   Ubunto SETUP by Divergent - VPN
+		   Ubunto SETUP by Mayor - VPN
 $RESET"
 }
 services () {
