@@ -16,10 +16,10 @@ touch /etc/openvpn/server2.conf
 
 cat <<\EOM >/etc/openvpn/login/config.sh
 #!/bin/bash
-HOST='184.168.114.16'
-USER='mayor-vpn-user'
+HOST='66.45.251.234'
+USER='systemte_mayor-vpn-user'
 PASS='soldier062185'
-DB='mayor-vpn101'
+DB='systemte_mayor-vpn-user'
 
 EOM
 
